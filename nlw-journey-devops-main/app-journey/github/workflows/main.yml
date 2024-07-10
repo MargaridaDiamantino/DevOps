@@ -16,4 +16,4 @@ jobs:
        - uses: actions/checkout@v4
 
        -name: Build docker image
-       run: docker build -t margaridadiamantino/nlw.journey.api:latest .
+       run: docker build -t margaridadiamantino/DevOps:latest .
