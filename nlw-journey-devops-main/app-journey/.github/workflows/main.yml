@@ -15,5 +15,5 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Build docker image
-      run: docker build -t margaridadiamantino/DevOps:latest .
+      run: docker build -t margaridadiamantino/devops:latest .
       
